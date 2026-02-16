@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #f8fafc;
+    margin: 0 0 0.5rem; 
+    letter-spacing: -0.025em;
+}
+p {
+    color: #f8fafc;
+    font-size: 14px;
+    margin: 0 0 0.5rem;
+}
+h2{
+   font-size: 18px;
+   color: #f8fafc;
+}
+
+.container-main{
+    margin: 0 auto;
+    padding:20px;
+}
+  
+.subtitle {
+    color: #94a3b8;
+    font-size: 14px;
+    margin: 0 0 2rem;
+  }
